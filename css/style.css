@@ -1,0 +1,164 @@
+
+/* Header Part Start */
+header {
+    width: 100%;
+    float: left;
+    padding: 30px 0px;
+    background: blue;
+	}
+.container{
+
+}
+.logo{
+    
+}
+.logo h2{
+    color: yellow;
+    float: left;
+    margin: 0px 30px;
+    font-size: 33px;
+
+}
+.menu{
+    
+}
+nav{
+
+}
+nav ul{
+margin: 5px 0px;
+float: right;
+color: #fff;
+}
+nav ul li{
+    display: inline;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0px 20px;
+    color: #fff;
+}
+
+
+/* Header Part End */
+
+/* Section Part Start */
+ section{
+   background: #fff;
+ }
+ .text{
+padding: 40px 0px;
+ }
+ .text h1 {
+        font-size: 65px;
+    padding-bottom: 30px;
+ }
+ .text p {
+    font-size: 18px;
+ }
+
+ .image{
+padding: 40px 0px;
+ }
+ .image img {
+    float: left;
+    width: 100%;
+ }
+.image p{
+    text-align: left;
+    font-size: 18px;
+    padding-left: 50px;
+ }
+/* Section Part End */
+
+/* Footer Part Start */
+
+footer {
+  background: #ef4035;
+  padding: 40px 0px;
+}
+
+.copyrite h5 {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+}
+
+/* Footer Part End */
+
+
+
+
+                                                            @media (max-width: 575.98px) {
+
+                                                            nav ul{
+                                                            margin: -23px 0px;
+                                                            float: right;
+                                                            }
+                                                            nav ul li{
+                                                                display: inline;
+                                                                text-decoration: none;
+                                                                font-size: 10px;
+                                                                padding: 0px 15px;}
+
+                                                              .logo h2{
+                                                                color: yellow;
+                                                                float: left;
+                                                                margin: 0px 30px;
+                                                                font-size: 20px;} 
+
+                                                                .copyrite h5 {
+                                                                margin: 0 auto;
+                                                                text-align: center;
+                                                                font-size: 15px;
+                                                                color: #fff;}
+
+                                                            }
+
+
+                                                            @media (min-width: 576px) and (max-width: 767.98px) {
+
+                                                              nav ul{
+                                                            margin: -23px 0px;
+                                                            float: right;
+                                                            }
+                                                            nav ul li{
+                                                                display: inline;
+                                                                text-decoration: none;
+                                                                font-size: 10px;
+                                                                padding: 0px 15px;}
+
+                                                              .logo h2{
+                                                                color: yellow;
+                                                                float: left;
+                                                                margin: 0px 30px;
+                                                                font-size: 20px;}
+                                                                
+                                                                
+                                                            }
+
+
+                                                            @media (min-width: 768px) and (max-width: 1199.98px) {
+                                                             nav ul{
+                                                            margin: -3px 0px;
+                                                            float: right;
+                                                            }
+                                                            nav ul li{
+                                                                display: inline;
+                                                                text-decoration: none;
+                                                                font-size: 10px;
+                                                                padding: 0px 15px;}
+
+                                                              .logo h2{
+                                                                color: yellow;
+                                                                float: left;
+                                                                margin: 0px 30px;
+                                                                font-size: 15px;}
+                                                              .text p {
+                                                                font-size: 18px;
+                                                                line-height: 20px;}
+                                                                
+                                                            }
+                                                            @media (min-width: 1200px) {
+
+                                                            }
